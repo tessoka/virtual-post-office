@@ -4,7 +4,7 @@ import axios from 'axios'
 import Mail from './Mail'
 
 const MailFind = ({inputRefNum}) => {
-  const url = `http://localhost:5000/api/mails/${inputRefNum}`
+  const url = `http://localhost:4999/api/mails/${inputRefNum}`
   const [ mailsData, setMailsData ] = useState([])
 
   const getMails = async (url) => {

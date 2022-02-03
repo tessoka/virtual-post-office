@@ -22,7 +22,7 @@ const MailNew = () => {
 
     setIsPending(true)
 
-    axios.post('http://localhost:5000/api/mails', newMail)
+    axios.post('http://localhost:4999/api/mails', newMail)
       .then((res) => {
         console.log(res)
         // console.log("new mail added")
