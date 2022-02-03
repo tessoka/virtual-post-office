@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "from": "Peter Jackson",
+    "to": "Marie Odalein",
+    "message": "I love you",
+    "reference": 256135
+  },
+  {
+    "id": 2,
+    "from": "Wade Wilson",
+    "to": "Peter Parker",
+    "message": "I love your red suit",
+    "reference": 256396
+  },
+  {
+    "id": 3,
+    "from": "Obi-Wan Kenobi",
+    "to": "Stormtroopers",
+    "message": "These are not the droids your are looking for...",
+    "reference": 123457
+  },
+  {
+    "id": 4,
+    "from": "Neo",
+    "to": "Choi",
+    "message": "You ever have that feeling where you're not sure if you're awake or still dreaming?",
+    "reference": 456789
+  },
+  {
+    "id": 5,
+    "from": "Willy Wonka",
+    "to": "Charlie",
+    "message": "We are the music makers and we are the dreamers of dreams.",
+    "reference": 123965
+  },
+  {
+    "id": 6,
+    "from": "Peter Griffin",
+    "to": "Everyone",
+    "message": "Bird Is The Word.",
+    "reference": 963852
+  },
+  {
+    "id": 7,
+    "from": "asdf",
+    "to": "asdf",
+    "message": "asdf",
+    "reference": null
+  },
+  {
+    "id": 8,
+    "from": "123",
+    "to": "123",
+    "message": "123",
+    "reference": 123
+  },
+  {
+    "id": 9,
+    "from": "asdf",
+    "to": "xyz",
+    "message": "hello bello",
+    "reference": 789
+  }
+]
