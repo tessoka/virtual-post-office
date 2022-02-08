@@ -15,9 +15,9 @@ The goal of this app is to send the mails to a server, save them and be able to 
 - When we send a mail object with a reference number already existing in the list of mails, the server returns with a status code 400
 - When we send a get request to the endpoint("/api/mails/#refNumber"), the server returns a JSON with the mail with the given reference number (if it exists)
 
-### Built with
+## Built with
 
 - React.js
 - Express.js
-- Semantic HTML markup
-- Minimal styled-components
+- Semantic HTML5 markup
+- CSS Flexbox
